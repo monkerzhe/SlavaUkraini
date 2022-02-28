@@ -1,7 +1,36 @@
 //list from https://github.com/erkexzcx/stoppropaganda/blob/main/stoppropaganda.go#L19
 module.exports = [
 	/* Russia */
-
+	// Sber API
+	"api.sberbank.ru",
+	"res.online.sberbank.ru",
+	"scr.online.sberbank.ru",
+	"dmp.sbermarketing.ru",
+	// Exchanges
+	"https://cleanbtc.ru/",
+	"https://bonkypay.com/",
+	"https://changer.club/",
+	"https://superchange.net",
+	"https://mine.exchange/",
+	"https://platov.co",
+	"https://ww-pay.net/",
+	"https://delets.cash/",
+	"https://betatransfer.org",
+	"https://ramon.money/",
+	"https://coinpaymaster.com/",
+	"https://bitokk.biz/",
+	"https://www.netex24.net",
+	"https://cashbank.pro/",
+	"https://flashobmen.com/",
+	"https://abcobmen.com/",
+	"https://ychanger.net/",
+	"https://multichange.net/",
+	"https://24paybank.ne",
+	"https://royal.cash/",
+	"https://prostocash.com/",
+	"https://baksman.org/",
+	"https://kupibit.me/",
+	"https://abcobmen.com",
 	// Propaganda
 	"https://lenta.ru/",
 	"https://ria.ru/",
@@ -61,6 +90,8 @@ module.exports = [
 	"https://www.eurosib.ru",
 
 	// Banks
+	"https://sber.ru/",
+	"https://sbermarketing.ru/",
 	"https://www.sberbank.ru",
 	"https://online.sberbank.ru/",
 	"https://www.vtb.ru",
@@ -84,6 +115,10 @@ module.exports = [
 
 	// Others
 	"https://109.207.1.118/",
+	"https://111.90.151.182:5651",
+	"https://111.90.151.182:8080",
+	"https://111.90.151.182:5555",
+	"https://111.90.151.182:4899",
 	"https://109.207.1.97/",
 	"https://mail.rkn.gov.ru",
 	"https://cloud.rkn.gov.ru",
